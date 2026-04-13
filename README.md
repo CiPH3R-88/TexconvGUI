@@ -12,6 +12,11 @@ Instead of typing complex commands, you just pick your files, choose your settin
 
 It supports converting image textures between formats like **DDS, PNG, JPG, WebP, BMP, TGA, TIF and HDR**.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CiPH3R-88/TexconvGUI/f84d9c944e8a2c8c8a67401d8f67e4e6012ad794/texconvgui1.png" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/CiPH3R-88/TexconvGUI/f84d9c944e8a2c8c8a67401d8f67e4e6012ad794/texconvgui2.png" width="45%" />
+</p>
 
 ---
 
