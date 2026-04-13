@@ -250,5 +250,5 @@ Every time you change a setting, the **Live Command Preview** panel updates inst
 ## Credits
 
 - **Texconv** — by Microsoft / [DirectXTex](https://github.com/microsoft/DirectXTex)
-- **upscayl-ncnn** — AI upscaling engine by [Upscayl](https://github.com/upscayl/upscayl-ncnn)
+- **upscayl-ncnn** — AI upscaling engine by [Upscayl](https://github.com/xinntao/Real-ESRGAN)
 - **TexconvGUI** — built with Python, pywebview, Bootstrap 5
