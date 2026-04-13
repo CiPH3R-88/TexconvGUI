@@ -12,7 +12,6 @@ Instead of typing complex commands, you just pick your files, choose your settin
 
 It supports converting image textures between formats like **DDS, PNG, JPG, WebP, BMP, TGA, TIF and HDR**.
 
-> Originally built for the **NFS (Need for Speed) game modding pipeline**, but works for any general texture conversion workflow.
 
 ---
 
